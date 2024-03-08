@@ -1,0 +1,8 @@
+Electronics,A102,Watch,15,150.0,Casio,2
+Clothing,B150,Shirt,20,20.0,M,Red
+Electronics,C302,Smartphone,20,750.0,Apple,1
+Electronics,D1234,Clock,5,30.0,Seiko,1
+Clothing,H392,Trouser,2,30.0,Large,Blue
+Electronics,Red192,Speaker,5,150.0,Bose,2
+Clothing,Ksad123,Pants,30,300.0,Medium,Yellow
+Electronics,r302,Laptop,7,300.0,Dell,2
